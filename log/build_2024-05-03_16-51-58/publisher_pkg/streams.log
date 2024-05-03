@@ -1,0 +1,38 @@
+[0.281s] Invoking command in '/home/robomancries/ros_projects/src/publisher_pkg': PYTHONPATH=/home/robomancries/ros_projects/build/publisher_pkg/prefix_override:/home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/robomancries/ros_projects/build/publisher_pkg/build install --record /home/robomancries/ros_projects/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[0.387s] running egg_info
+[0.387s] creating ../../build/publisher_pkg/publisher_pkg.egg-info
+[0.387s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[0.387s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[0.387s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[0.387s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[0.387s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[0.387s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.388s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.388s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.389s] running build
+[0.389s] running build_py
+[0.389s] creating /home/robomancries/ros_projects/build/publisher_pkg/build
+[0.389s] creating /home/robomancries/ros_projects/build/publisher_pkg/build/lib
+[0.389s] creating /home/robomancries/ros_projects/build/publisher_pkg/build/lib/publisher_pkg
+[0.389s] copying publisher_pkg/simple_publisher.py -> /home/robomancries/ros_projects/build/publisher_pkg/build/lib/publisher_pkg
+[0.389s] copying publisher_pkg/__init__.py -> /home/robomancries/ros_projects/build/publisher_pkg/build/lib/publisher_pkg
+[0.389s] running install
+[0.389s] running install_lib
+[0.389s] creating /home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+[0.390s] copying /home/robomancries/ros_projects/build/publisher_pkg/build/lib/publisher_pkg/simple_publisher.py -> /home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+[0.390s] copying /home/robomancries/ros_projects/build/publisher_pkg/build/lib/publisher_pkg/__init__.py -> /home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg
+[0.390s] byte-compiling /home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/simple_publisher.py to simple_publisher.cpython-310.pyc
+[0.390s] byte-compiling /home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg/__init__.py to __init__.cpython-310.pyc
+[0.390s] running install_data
+[0.390s] creating /home/robomancries/ros_projects/install/publisher_pkg/share/ament_index
+[0.390s] creating /home/robomancries/ros_projects/install/publisher_pkg/share/ament_index/resource_index
+[0.390s] creating /home/robomancries/ros_projects/install/publisher_pkg/share/ament_index/resource_index/packages
+[0.390s] copying resource/publisher_pkg -> /home/robomancries/ros_projects/install/publisher_pkg/share/ament_index/resource_index/packages
+[0.391s] copying package.xml -> /home/robomancries/ros_projects/install/publisher_pkg/share/publisher_pkg
+[0.391s] copying launch/publisher_pkg_launch_file.launch.py -> /home/robomancries/ros_projects/install/publisher_pkg/share/publisher_pkg
+[0.391s] running install_egg_info
+[0.391s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages/publisher_pkg-0.0.0-py3.10.egg-info
+[0.392s] running install_scripts
+[0.400s] Installing simple_publisher script to /home/robomancries/ros_projects/install/publisher_pkg/lib/publisher_pkg
+[0.400s] writing list of installed files to '/home/robomancries/ros_projects/build/publisher_pkg/install.log'
+[0.414s] Invoked command in '/home/robomancries/ros_projects/src/publisher_pkg' returned '0': PYTHONPATH=/home/robomancries/ros_projects/build/publisher_pkg/prefix_override:/home/robomancries/ros_projects/install/publisher_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /home/robomancries/ros_projects/build/publisher_pkg/build install --record /home/robomancries/ros_projects/build/publisher_pkg/install.log --single-version-externally-managed install_data
