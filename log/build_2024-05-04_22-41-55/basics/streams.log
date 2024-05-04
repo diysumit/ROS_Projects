@@ -1,0 +1,25 @@
+[0.409s] Invoking command in '/Users/diysumit/ROS_Projects/src/basics': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/diysumit/ROS_Projects/build/basics/prefix_override:/Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=2 _=/opt/miniconda3/envs/ros_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/miniconda3/envs/ros_env/bin/python3.11 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/basics build --build-base /Users/diysumit/ROS_Projects/build/basics/build install --record /Users/diysumit/ROS_Projects/build/basics/install.log --single-version-externally-managed install_data
+[0.507s] running egg_info
+[0.513s] writing ../../build/basics/basics.egg-info/PKG-INFO
+[0.514s] writing dependency_links to ../../build/basics/basics.egg-info/dependency_links.txt
+[0.514s] writing entry points to ../../build/basics/basics.egg-info/entry_points.txt
+[0.514s] writing requirements to ../../build/basics/basics.egg-info/requires.txt
+[0.514s] writing top-level names to ../../build/basics/basics.egg-info/top_level.txt
+[0.525s] reading manifest file '../../build/basics/basics.egg-info/SOURCES.txt'
+[0.526s] writing manifest file '../../build/basics/basics.egg-info/SOURCES.txt'
+[0.526s] running build
+[0.526s] running build_py
+[0.526s] running install
+[0.529s] running install_lib
+[0.534s] creating /Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages/basics
+[0.534s] copying /Users/diysumit/ROS_Projects/build/basics/build/lib/basics/groot.py -> /Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages/basics
+[0.535s] copying /Users/diysumit/ROS_Projects/build/basics/build/lib/basics/__init__.py -> /Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages/basics
+[0.535s] byte-compiling /Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages/basics/groot.py to groot.cpython-311.pyc
+[0.535s] byte-compiling /Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages/basics/__init__.py to __init__.cpython-311.pyc
+[0.535s] running install_data
+[0.536s] running install_egg_info
+[0.544s] Copying ../../build/basics/basics.egg-info to /Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages/basics-0.0.0-py3.11.egg-info
+[0.544s] running install_scripts
+[0.592s] Installing groot script to /Users/diysumit/ROS_Projects/install/basics/lib/basics
+[0.592s] writing list of installed files to '/Users/diysumit/ROS_Projects/build/basics/install.log'
+[0.605s] Invoked command in '/Users/diysumit/ROS_Projects/src/basics' returned '0': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/diysumit/ROS_Projects/build/basics/prefix_override:/Users/diysumit/ROS_Projects/install/basics/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=2 _=/opt/miniconda3/envs/ros_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/miniconda3/envs/ros_env/bin/python3.11 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/basics build --build-base /Users/diysumit/ROS_Projects/build/basics/build install --record /Users/diysumit/ROS_Projects/build/basics/install.log --single-version-externally-managed install_data

@@ -1,3 +1,3 @@
 import sys
 sys.real_prefix = sys.prefix
-sys.prefix = sys.exec_prefix = '/home/robomancries/ros_projects/install/basics'
+sys.prefix = sys.exec_prefix = '/Users/diysumit/ROS_Projects/install/basics'

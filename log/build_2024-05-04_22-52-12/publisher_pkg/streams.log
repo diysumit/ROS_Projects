@@ -1,0 +1,25 @@
+[0.433s] Invoking command in '/Users/diysumit/ROS_Projects/src/publisher_pkg': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/diysumit/ROS_Projects/build/publisher_pkg/prefix_override:/Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=6 _=/opt/miniconda3/envs/ros_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/miniconda3/envs/ros_env/bin/python3.11 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /Users/diysumit/ROS_Projects/build/publisher_pkg/build install --record /Users/diysumit/ROS_Projects/build/publisher_pkg/install.log --single-version-externally-managed install_data
+[0.538s] running egg_info
+[0.543s] writing ../../build/publisher_pkg/publisher_pkg.egg-info/PKG-INFO
+[0.544s] writing dependency_links to ../../build/publisher_pkg/publisher_pkg.egg-info/dependency_links.txt
+[0.544s] writing entry points to ../../build/publisher_pkg/publisher_pkg.egg-info/entry_points.txt
+[0.544s] writing requirements to ../../build/publisher_pkg/publisher_pkg.egg-info/requires.txt
+[0.544s] writing top-level names to ../../build/publisher_pkg/publisher_pkg.egg-info/top_level.txt
+[0.556s] reading manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.557s] writing manifest file '../../build/publisher_pkg/publisher_pkg.egg-info/SOURCES.txt'
+[0.557s] running build
+[0.557s] running build_py
+[0.557s] running install
+[0.559s] running install_lib
+[0.565s] creating /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages/publisher_pkg
+[0.566s] copying /Users/diysumit/ROS_Projects/build/publisher_pkg/build/lib/publisher_pkg/__init__.py -> /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages/publisher_pkg
+[0.566s] copying /Users/diysumit/ROS_Projects/build/publisher_pkg/build/lib/publisher_pkg/simple_publisher.py -> /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages/publisher_pkg
+[0.566s] byte-compiling /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages/publisher_pkg/__init__.py to __init__.cpython-311.pyc
+[0.566s] byte-compiling /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages/publisher_pkg/simple_publisher.py to simple_publisher.cpython-311.pyc
+[0.566s] running install_data
+[0.567s] running install_egg_info
+[0.573s] Copying ../../build/publisher_pkg/publisher_pkg.egg-info to /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages/publisher_pkg-0.0.0-py3.11.egg-info
+[0.574s] running install_scripts
+[0.630s] Installing simple_publisher script to /Users/diysumit/ROS_Projects/install/publisher_pkg/lib/publisher_pkg
+[0.630s] writing list of installed files to '/Users/diysumit/ROS_Projects/build/publisher_pkg/install.log'
+[0.651s] Invoked command in '/Users/diysumit/ROS_Projects/src/publisher_pkg' returned '0': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/diysumit/ROS_Projects/build/publisher_pkg/prefix_override:/Users/diysumit/ROS_Projects/install/publisher_pkg/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=6 _=/opt/miniconda3/envs/ros_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /opt/miniconda3/envs/ros_env/bin/python3.11 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/publisher_pkg build --build-base /Users/diysumit/ROS_Projects/build/publisher_pkg/build install --record /Users/diysumit/ROS_Projects/build/publisher_pkg/install.log --single-version-externally-managed install_data
